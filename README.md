@@ -10,4 +10,5 @@ The script accepts a GameObject array which is filled by Hearth Sprite and each 
 <li class="has-line-data" data-line-start="11" data-line-end="12">When 0 lives reached the Player is destroyed (Game Over)</li>
 <li class="has-line-data" data-line-start="12" data-line-end="14">Add link to the Script in the repo!</li>
 </ol>
-<p class="has-line-data" data-line-start="14" data-line-end="15">To Use the triple shooting Use Crtl (the default timeout is set to 0.2f but changable anytime in the editor under PlayerSpaceship-&gt;Laser Shooter-&gt; Triple Shoot)</p>
+<p class="has-line-data" data-line-start="14" data-line-end="15">To Use the triple shooting Use Crtl (the default timeout is set to 0.2f but changable anytime in the editor under PlayerSpaceship-&gt;Laser Shooter-&gt; Triple Shoot</p>
+<p class="has-line-data" data-line-start="15" data-line-end="16">Link to Itch.io is available at: https://noyohana.itch.io/3livestripleshooter</p>
